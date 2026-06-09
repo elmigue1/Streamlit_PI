@@ -1,0 +1,2 @@
+n_clases,n_muestras,modelo_final,f1_macro_validation,balanced_accuracy_validation,f1_macro_test,balanced_accuracy_test
+18,8335,XGBoost,0.9719764406520852,0.9720545143145196,0.9698299098698787,0.9724126774280387
